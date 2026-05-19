@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 class Order:
     def __init__(self, code: str, side: str, quantity: int, price: float,
                  order_type: str = "LIMIT"):

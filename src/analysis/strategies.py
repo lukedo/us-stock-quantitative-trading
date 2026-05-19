@@ -1,3 +1,4 @@
+from __future__ import annotations
 import pandas as pd
 from src.analysis.technical import sma, rsi, macd
 

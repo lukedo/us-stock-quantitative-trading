@@ -33,4 +33,3 @@ data/*.csv
 data/cache/
 
 # API docs (sensitive)
-docs/Futu-API-Doc-zh-Python.md

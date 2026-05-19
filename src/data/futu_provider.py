@@ -1,3 +1,4 @@
+from __future__ import annotations
 import pandas as pd
 from futu import *
 from src.config import OPEND_HOST, OPEND_PORT

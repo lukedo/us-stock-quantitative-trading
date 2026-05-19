@@ -1,8 +1,10 @@
+from __future__ import annotations
 import sqlite3
 import os
 import json
 import pandas as pd
 from datetime import datetime, timedelta
+from typing import Optional
 from src.config import CACHE_DB_PATH
 
 
